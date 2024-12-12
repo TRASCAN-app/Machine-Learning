@@ -1,7 +1,7 @@
 # 🌍 TRASCAN: Machine Learning Model for Waste Classification  
 
 Welcome to the **TRASCAN Machine Learning** repository! 
-This repository contains a notebook (Model.ipynb) that demonstrates the process of building an image classification model using TensorFlow and Keras with the EfficientNet architecture. The model performs image analysis and classifies images into 28 distinct classes. The images are resized to 224x224 for processing and classification.
+This repository contains a notebook `(Model.ipynb)` that demonstrates the process of building an image classification model using TensorFlow and Keras with the EfficientNet architecture. The model performs image analysis and classifies images into 28 distinct classes. The images are resized to 224x224 for processing and classification.
 
 ---
 
