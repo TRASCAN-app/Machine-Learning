@@ -31,4 +31,6 @@ The project is structured into the following stages:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/trascan.git
+2. Open the Model.ipynb notebook and follow the steps to reproduce the model.
+3. Use the saved .h5 model for integration into the TRASCAN application.
 
